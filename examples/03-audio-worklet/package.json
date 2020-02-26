@@ -1,0 +1,15 @@
+{
+  "name": "03-audio-worklet",
+  "version": "1.0.0",
+  "description": "Audio Worklet Example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "salgum1114",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
